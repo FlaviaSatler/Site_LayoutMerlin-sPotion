@@ -1,0 +1,45 @@
+.header{
+    margin-top: 15px;
+}
+
+.header .navigation{
+    position: absolute;
+}
+
+.header .navigation > img{
+    width: 25px;    
+}
+
+.header-logo{
+    height: 48px;
+    width: 200px;
+    padding-left: 45px;
+    
+}
+
+.header-bag-img{
+    padding-left: 10px;
+    position: absolute;
+    right: 16px;
+    top: 7px;
+}
+
+.header > .header-bag{
+    display: inline-block;
+    top: 39px;
+    position: absolute;
+    right: 7px;
+    color: var(--primary);
+}
+
+.header > .header-legend{
+    text-align: center;
+    background-color: var(--secondary);
+    width: 100vw;
+    margin-left: -8px;
+    padding: 6px 0 6px 0;
+    font-weight: 550;
+    font-style: italic;
+    font-family: var(--principal);
+    color: var(--third);
+}

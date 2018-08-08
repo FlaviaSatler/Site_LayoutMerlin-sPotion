@@ -1,0 +1,8 @@
+@font-face {
+    font-family: corvallis;
+    src: url('../fonts/corvallis.ttf');
+}
+
+:root{
+    --principal: corvallis;
+}
